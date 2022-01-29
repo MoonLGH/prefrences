@@ -1,0 +1,103 @@
+{
+	"git.enableSmartCommit": true,
+	"workbench.editor.enablePreview": false,
+	"jshint.trace.server": "messages",
+	"task.saveBeforeRun": "prompt",
+	"explorer.openEditors.visible": 0,
+	"jshint.options": {
+		"esversion": 8,
+		"asi": true
+	},
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true,
+	"typescript.format.semicolons": "ignore",
+	"jshint.enable": false,
+	"beautify.language": {
+		"js": {
+			"type": ["javascript", "json", "jsonc", "typescript"],
+			"filename": [".jshintrc", ".jsbeautifyrc"]
+		},
+		"css": ["css", "less", "scss"],
+		"html": ["htm", "html"]
+	},
+	"editor.fontSize": 14,
+	"typescript.format.enable": false,
+	"background.customImages": ["C:/Users/HP/Desktop/farrel/PhotoS/eromanga.png"],
+	"background.style": {
+		"background-position": "right",
+		"opacity": 0.25
+	},
+	"backgroundCover.autoStatus": true,
+	"backgroundCover.imagePath": "c:\\Users\\HP\\Desktop\\farrel\\PhotoS\\Sagiri Pillow.png",
+	"editor.fontWeight": "normal",
+	"background.useDefault": false,
+	"backgroundCover.opacity": 0.75,
+	"ShortcutMenuBar.userButton01Command": "git.commit",
+	"ShortcutMenuBar.userButton02Command": "git.push",
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"liveServer.settings.donotVerifyTags": true,
+	"editor.suggestSelection": "first",
+	"workbench.colorTheme": "Eva Dark",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"terminal.integrated.defaultProfile.windows": "PowerShell",
+	"editor.inlineSuggest.enabled": true,
+	// "terminal.integrated.profiles.windows": {
+	// 	"zsh": {
+	// 	  "path": "${env:windir}\\System32\\cmd.exe",
+	// 	  "args": ["/k", "C:\\cmder\\vendor\\bin\\vscode_init.cmd"]
+	// 	}
+	// },
+	// "terminal.integrated.shell.windows": "C:\\Users\\adity\\AppData\\Local\\Microsoft\\WindowsApps\\ubuntu.exe",
+	// "terminal.integrated.defaultProfile.windows": "Cmder",
+	"github.copilot.autocomplete.enable": true,
+	"github.copilot.enable": {
+		"*": true,
+		"yaml": false,
+		"plaintext": false,
+		"markdown": false,
+		"typescript": true
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"prettier.arrowParens": "always",
+	"prettier.bracketSpacing": true,
+	"prettier.requirePragma": true,
+	"prettier.printWidth": 80,
+	"prettier.semi": true,
+	"prettier.useTabs": true,
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"html.format.templating": true,
+	"files.defaultLanguage": "javascript",
+	"files.exclude": {
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true
+	},
+	"kite.showWelcomeNotificationOnStartup": false,
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.inlayHints.fontSize": 10,
+	"javascript.inlayHints.parameterTypes.enabled": true,
+	"typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+	"typescript.inlayHints.parameterNames.enabled": "all",
+	"typescript.inlayHints.parameterTypes.enabled": true,
+	"typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+	"typescript.inlayHints.variableTypes.enabled": true,
+	"typescript.inlayHints.enumMemberValues.enabled": true,
+	"javascript.inlayHints.variableTypes.enabled": true,
+	"javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+	"javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+	"javascript.inlayHints.enumMemberValues.enabled": true,
+}
